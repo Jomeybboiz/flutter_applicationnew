@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616764519128",
+    "project_id": "pepi-firebase",
+    "storage_bucket": "pepi-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616764519128:android:cf4294930246ba80be1dad",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQXyU3ZaLp-BaJW_DKvZ4symRRCUR_Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
